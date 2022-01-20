@@ -1,6 +1,7 @@
 # Toca música
 
-Projeto visando colocar em práticas novos aprendizados.
+Projeto visando colocar em práticas novos aprendizados;
+
 
 ---
 
