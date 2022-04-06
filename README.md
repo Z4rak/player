@@ -1,6 +1,6 @@
 # Toca música
 
-Projeto visando colocar em práticas novos aprendizados;
+Tacador de playlist de música
 
 
 ---
